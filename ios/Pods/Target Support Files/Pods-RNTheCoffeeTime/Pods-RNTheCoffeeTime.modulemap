@@ -1,0 +1,6 @@
+framework module Pods_RNTheCoffeeTime {
+  umbrella header "Pods-RNTheCoffeeTime-umbrella.h"
+
+  export *
+  module * { export * }
+}
